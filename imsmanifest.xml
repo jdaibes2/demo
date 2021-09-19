@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none"><![CDATA[Vegetables and Fruits]]></langstring>
+          <langstring xml:lang="x-none"><![CDATA[Vegetables and Fruits-V2]]></langstring>
         </title>
         <description>
           <langstring xml:lang="x-none"><![CDATA[let's discover the benefits of Vegetables and Fruits]]></langstring>
@@ -16,9 +16,9 @@
   </metadata>
   <organizations default="adapt_scorm">
     <organization identifier="adapt_scorm">
-      <title><![CDATA[Vegetables and Fruits]]></title>
+      <title><![CDATA[Vegetables and Fruits-V2]]></title>
       <item identifier="item_1" isvisible="true" identifierref="res1">
-        <title><![CDATA[Vegetables and Fruits]]></title>
+        <title><![CDATA[Vegetables and Fruits-V2]]></title>
       </item>
     </organization>
   </organizations>

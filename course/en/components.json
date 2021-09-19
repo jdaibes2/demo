@@ -12,8 +12,8 @@
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "612f460ae963ae1728985631",
-    "_parentId": "612f460ae963ae1728985630",
+    "_id": "61475954456e2008a443c30c",
+    "_parentId": "61475954456e2008a443c300",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -67,8 +67,8 @@
     "title": "Question 1",
     "displayTitle": "",
     "body": "<p><span style=\"color:#FF8C00\"><strong>A healthy, balanced diet includes:</strong></span></p>",
-    "_id": "612f460ae963ae1728985634",
-    "_parentId": "612f460ae963ae1728985630",
+    "_id": "61475954456e2008a443c30d",
+    "_parentId": "61475954456e2008a443c300",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -181,8 +181,8 @@
     "title": "New Component Title",
     "displayTitle": "Introduction",
     "body": "<p>A <span style=\"color:#FF8C00\"><strong>diet rich in vegetables and fruits</strong></span> can lower blood pressure, reduce the risk of heart disease and stroke, prevent some types of cancer, lower risk of eye and digestive problems, and have a positive effect upon blood sugar, which can help keep appetite in check. Eating non-starchy vegetables and fruits like apples, pears, and green leafy vegetables may even promote weight loss.&nbsp;Their low glycemic loads prevent blood sugar spikes that can increase hunger.</p><p><span style=\"color:#FF8C00\"><strong>At least nine different families of fruits and vegetables exist</strong></span>, each with potentially hundreds of different plant compounds that are beneficial to health. Eat a variety of types and colors of produce in order to give your body the mix of nutrients it needs. This not only ensures a greater diversity of beneficial plant chemicals but also creates eye-appealing meals.</p>",
-    "_id": "612f4e34e963ae1728985640",
-    "_parentId": "612f427ae963ae1728985623",
+    "_id": "61475954456e2008a443c30e",
+    "_parentId": "61475954456e2008a443c2ff",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -205,8 +205,8 @@
     "title": "New Component Title",
     "displayTitle": "Tips to eat more vegetables and fruits each day",
     "body": "",
-    "_id": "612f50b6e963ae1728985646",
-    "_parentId": "612f50a9e963ae1728985645",
+    "_id": "61475954456e2008a443c30f",
+    "_parentId": "61475954456e2008a443c301",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -230,7 +230,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "1"
+        "strapline": "Click to read text"
       },
       {
         "title": "",
@@ -241,7 +241,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "2"
+        "strapline": "Click to read text"
       },
       {
         "title": "",
@@ -252,7 +252,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "3"
+        "strapline": "Click to read text"
       },
       {
         "title": "",
@@ -263,7 +263,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "4"
+        "strapline": "Click to read text"
       }
     ]
   },
@@ -280,8 +280,8 @@
     "title": "New Component Title",
     "displayTitle": "Vegetables, fruits, and disease",
     "body": "",
-    "_id": "612f5290e963ae172898564c",
-    "_parentId": "612f528ce963ae172898564b",
+    "_id": "61475954456e2008a443c310",
+    "_parentId": "61475954456e2008a443c302",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -379,8 +379,8 @@
     "title": "New Component Title",
     "displayTitle": "Summary",
     "body": "<p>- Fruits and vegetables contain important vitamins, minerals and plant chemicals. They also contain fiber.</p><p>- There are many varieties of fruit and vegetables available and many ways to prepare, cook and serve them.</p><p>- A diet high in fruit and vegetables can help protect you against cancer, diabetes and heart disease.</p><p>- Eat five kinds of vegetable and two kinds of fruit every day for good health.</p><p>- When buying and serving fruit and vegetables, aim for variety to get the most nutrients and appeal.</p>",
-    "_id": "612f56a8e963ae1728985651",
-    "_parentId": "612f56a8e963ae1728985650",
+    "_id": "61475954456e2008a443c311",
+    "_parentId": "61475954456e2008a443c303",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -403,8 +403,8 @@
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "6138f10c3de023276c432682",
-    "_parentId": "612f427ae963ae1728985623",
+    "_id": "61475954456e2008a443c312",
+    "_parentId": "61475954456e2008a443c2ff",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -421,54 +421,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "QUIZ",
-    "displayTitle": "QUIZ",
-    "body": "",
-    "_id": "6138f4b73de023276c432688",
-    "_parentId": "612fc79a1129831b04a9bb91",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "<iframe src=\"https://h5p.org/h5p/embed/483963\" width=\"1090\" height=\"339\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"geolocation *; microphone *; camera *; midi *; encrypted-media *\" title=\"Foods\"></iframe> ",
-    "_id": "6138f57c3de023276c43268a",
-    "_parentId": "6138f5733de023276c432689",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": ""
-  },
-  {
     "_component": "mcq",
     "_classes": "",
     "_isOptional": false,
@@ -481,8 +433,8 @@
     "title": "Q1",
     "displayTitle": "Q1",
     "body": "<p><strong>To eat more fruits each day:</strong></p>",
-    "_id": "6138f9373de023276c43268c",
-    "_parentId": "6138f5983de023276c43268b",
+    "_id": "61475954456e2008a443c313",
+    "_parentId": "61475954456e2008a443c304",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -521,8 +473,8 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
-    "_hasItemScoring": true,
-    "_questionWeight": 1,
+    "_hasItemScoring": false,
+    "_questionWeight": 20,
     "_selectable": 1,
     "_feedback": {
       "title": "",
@@ -573,9 +525,9 @@
     "_disableAccessibilityState": false,
     "title": "Q2",
     "displayTitle": "Q2",
-    "body": "<p><span style=\"color:#FF8C00\"><strong>A fruit rich&nbsp;in Vitamin C!</strong></span></p>",
-    "_id": "6138fb713de023276c432690",
-    "_parentId": "6138fb673de023276c43268f",
+    "body": "<p><span style=\"color:#FF8C00\"><strong>A fruit rich&nbsp;in Vitamin C</strong></span></p>",
+    "_id": "61475954456e2008a443c314",
+    "_parentId": "61475954456e2008a443c305",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -596,7 +548,7 @@
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
-        "_score": 5000
+        "_score": 0
       },
       {
         "_graphic": {
@@ -631,8 +583,8 @@
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
-    "_hasItemScoring": true,
-    "_questionWeight": 1,
+    "_hasItemScoring": false,
+    "_questionWeight": 20,
     "_recordInteraction": true,
     "_columns": 3,
     "_selectable": 1,
@@ -686,8 +638,8 @@
     "title": "Q3",
     "displayTitle": "Q3",
     "body": "<p><strong>The Dietary Approaches to Stop Hypertension (DASH) study examined the effect on <u><span style=\"background-color:#FF8C00\">???</span></u> pressure of a diet that was rich in fruits and vegetables</strong></p>",
-    "_id": "6138fd3d3de023276c43269f",
-    "_parentId": "6138fd3d3de023276c43269e",
+    "_id": "61475954456e2008a443c315",
+    "_parentId": "61475954456e2008a443c306",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -713,7 +665,7 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
-    "_questionWeight": 1,
+    "_questionWeight": 20,
     "_allowsAnyCase": true,
     "_allowsPunctuation": true,
     "_feedback": {
@@ -766,8 +718,8 @@
     "title": "Q4",
     "displayTitle": "Q4",
     "body": "<p><strong>For a healthy diet, eat more: </strong></p>",
-    "_id": "613cadc2d3e48931b4099318",
-    "_parentId": "6138feba3de023276c4326a0",
+    "_id": "61475954456e2008a443c316",
+    "_parentId": "61475954456e2008a443c307",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -796,7 +748,7 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
-    "_questionWeight": 1,
+    "_questionWeight": 20,
     "_allowsAnyCase": true,
     "_allowsPunctuation": true,
     "_feedback": {
@@ -849,8 +801,8 @@
     "title": "Q5",
     "displayTitle": "Q5",
     "body": "",
-    "_id": "613cafc9d3e48931b409931a",
-    "_parentId": "613cafc3d3e48931b4099319",
+    "_id": "61475954456e2008a443c317",
+    "_parentId": "61475954456e2008a443c308",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -866,7 +818,7 @@
     "_shouldResetAllAnswers": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
-    "_questionWeight": 1,
+    "_questionWeight": 20,
     "_recordInteraction": true,
     "placeholder": "Please select an option",
     "_items": [
@@ -941,5 +893,63 @@
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
     }
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "To learn more",
+    "body": "",
+    "_id": "61475954456e2008a443c31a",
+    "_parentId": "61475954456e2008a443c30a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "https://www.youtube.com/embed/z7x1aaZ03xU",
+    "_initialWidth": 720,
+    "_initialHeight": 500,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Quiz",
+    "body": "",
+    "_id": "61475954456e2008a443c31b",
+    "_parentId": "61475954456e2008a443c30b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "https://h5p.org/h5p/embed/483963",
+    "_initialWidth": 740,
+    "_initialHeight": 400,
+    "_dimensionDelegateSelector": ""
   }
 ]

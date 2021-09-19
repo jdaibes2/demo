@@ -1,5 +1,5 @@
 {
-  "title": "Vegetables and Fruits",
+  "title": "Vegetables and Fruits-V2",
   "displayTitle": "Vegetables and Fruits",
   "body": "",
   "subtitle": "Learn more about a healthy, balanced diet ",
@@ -128,6 +128,11 @@
     "_menu": {
       "_boxMenu": {
         "durationLabel": "Duration:"
+      }
+    },
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
       }
     }
   },
